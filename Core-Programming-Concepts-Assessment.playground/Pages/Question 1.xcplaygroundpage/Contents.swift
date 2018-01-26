@@ -21,9 +21,9 @@
 import Foundation
 
 // Revise code below to answer question 1
-let tc : Double = 20
-let tf = tc * 9 / 5 + 32
-print("A temperature in degrees Celsius of \(tc) is equal to \(tf) in degrees Fahrenheit.")
+let temperatureInCelcius : Double = 20
+let temperatureInFahrenheit = temperatureInCelcius * 9 / 5 + 32
+print("A temperature in degrees Celsius of \(temperatureInCelcius) is equal to \(temperatureInFahrenheit) in degrees Fahrenheit.")
 
 /*:
  - callout(Shortcut): The **Edit All in Scope** menu command is useful when renaming variables – place your cursor within the variable name and then invoke the menu command.
