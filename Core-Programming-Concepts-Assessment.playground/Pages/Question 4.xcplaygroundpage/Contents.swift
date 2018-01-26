@@ -23,7 +23,14 @@
  
  */
 // Answer question 4 below
-
+var numberOfAppsUsed : Int
+print("This number will grow over the cource of the day, and there are no .5 apps so it's an integer")
+var numberOfHours : Double
+print("This number will grow over the cource of the day, it is also possible to have .2 or .6 hours so it is a double")
+var mostPopularApp : String
+print("It could happen that for the first hour you use safari but then you find the youtube app and use it instead for the other 3.5 hours. So the mostPopularApp has changed over the day --> variable. It is also the name of the app so it is a sting")
+let currentDate : Int
+print("the date will be the same the whole day so it's a constant")
 /*:
  ## Now share your understanding
  
