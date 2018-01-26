@@ -24,7 +24,16 @@
  
  */
 // Answer question 2 below
-
+let bookName : String
+print("The name will always be the same")
+var copiesSold : Int
+print("The ammount will grow over time")
+let authorName : String
+print("The name will never change")
+var sellingPrice : Double
+print("The price has to change sometimes due to the populatity of the book, but theoretically it could be the same forever but then if for example the book looses popularity, the price would have to be set to a lower value to keep the sellings up.")
+let yearPublished : Int
+print("This will only happen once so it is a constant")
 /*:
  ## Now share your understanding
  
